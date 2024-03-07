@@ -1,0 +1,30 @@
+body { 
+    color: purple;
+    background-image:url(Background.jpg) ;
+}       
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px ;
+}
+
+a {
+  color: pink;
+  text-decoration: none;
+}
+
+header img {
+    border-radius: none;
+    border: none ;
+    width: 500px ;
+    height: 500px; ;
+}
+
+.center {
+    text-align: center;
+}
+
+
+
